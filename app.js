@@ -30,7 +30,7 @@ $('#contactForm')?.addEventListener('submit',e=>{
   const body=encodeURIComponent(
     `Name: ${form.name.value.trim()}\nEmail: ${form.email.value.trim()}\n\n${form.message.value.trim()}`
   );
-  location.href=`mailto:tantantzy81@gmail.com?subject=${subject}&body=${body}`;
+  location.href=`mailto:your-email@example.com?subject=${subject}&body=${body}`;
 });
 
 $('#copyEmail')?.addEventListener('click',async()=>{

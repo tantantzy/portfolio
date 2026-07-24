@@ -34,3 +34,13 @@ Suggested repository name:
 Suggested URL:
 
 `https://tantantzy.github.io/portfolio/`
+
+
+## Light edition
+
+This version uses a bright, professional design with:
+- white surfaces
+- soft blue and purple accents
+- lighter shadows
+- improved readability
+- more polished project cards
